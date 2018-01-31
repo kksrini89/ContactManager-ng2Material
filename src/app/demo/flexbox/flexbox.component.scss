@@ -1,0 +1,16 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+//   flex-flow: row wrap;
+}
+
+.flex-item {
+  width: 200px;
+  height: 150px;
+  background: tomato;
+  line-height: 200px;
+  margin-top: 5px;
+  text-align: center;  
+}
